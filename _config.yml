@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Al Banna
 tagline:          'Corat Coret'
 description:      'Pemilik Toko <a href="http://zazakhuna.com" target="_blank">zazakhuna</a> yang Pengguna Manjaro juga. Kicauan di <a href="https://twitter.com/zazakhuna" target="_blank">@zazakhuna</a>.'
-url:              http://blog.zazakhuna.com
+url:              se7entime.github.io
 baseurl:          /
 
 author:
